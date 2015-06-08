@@ -21,6 +21,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 #import "SRConnectionDelegate.h"
 #import "SRConnectionInterface.h"
 #import "SRConnectionState.h"
